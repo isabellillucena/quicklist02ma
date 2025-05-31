@@ -48,4 +48,6 @@ function removeItem(itemName) {
     }
 
     showItemsList()
+    correção
+    
 }
